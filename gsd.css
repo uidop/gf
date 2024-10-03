@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(82, 104, 122);
+    
+}
+.ss1 {
+ background-color: bisque;
+ height: 550px;
+ width: 550px;
+ margin-top: 250px;
+ 
+
+ border-radius: 25px;
+ box-shadow: 0 10px 25px black;
+}
+.ss2 {
+ margin-top:-550px;
+}
+.ss3 {
+    margin-right:0px;
+
+    margin-top: -30px; ;
+}
+.ss4 { 
+margin-top:0px;
+}
